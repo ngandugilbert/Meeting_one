@@ -1,0 +1,14 @@
+D:\Projects\ICTAZ\Meeting_one\ConsoleProgram\bin\Debug\net8.0\ConsoleProgram.exe
+D:\Projects\ICTAZ\Meeting_one\ConsoleProgram\bin\Debug\net8.0\ConsoleProgram.deps.json
+D:\Projects\ICTAZ\Meeting_one\ConsoleProgram\bin\Debug\net8.0\ConsoleProgram.runtimeconfig.json
+D:\Projects\ICTAZ\Meeting_one\ConsoleProgram\bin\Debug\net8.0\ConsoleProgram.dll
+D:\Projects\ICTAZ\Meeting_one\ConsoleProgram\bin\Debug\net8.0\ConsoleProgram.pdb
+D:\Projects\ICTAZ\Meeting_one\ConsoleProgram\obj\Debug\net8.0\ConsoleProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ICTAZ\Meeting_one\ConsoleProgram\obj\Debug\net8.0\ConsoleProgram.AssemblyInfoInputs.cache
+D:\Projects\ICTAZ\Meeting_one\ConsoleProgram\obj\Debug\net8.0\ConsoleProgram.AssemblyInfo.cs
+D:\Projects\ICTAZ\Meeting_one\ConsoleProgram\obj\Debug\net8.0\ConsoleProgram.csproj.CoreCompileInputs.cache
+D:\Projects\ICTAZ\Meeting_one\ConsoleProgram\obj\Debug\net8.0\ConsoleProgram.dll
+D:\Projects\ICTAZ\Meeting_one\ConsoleProgram\obj\Debug\net8.0\refint\ConsoleProgram.dll
+D:\Projects\ICTAZ\Meeting_one\ConsoleProgram\obj\Debug\net8.0\ConsoleProgram.pdb
+D:\Projects\ICTAZ\Meeting_one\ConsoleProgram\obj\Debug\net8.0\ConsoleProgram.genruntimeconfig.cache
+D:\Projects\ICTAZ\Meeting_one\ConsoleProgram\obj\Debug\net8.0\ref\ConsoleProgram.dll

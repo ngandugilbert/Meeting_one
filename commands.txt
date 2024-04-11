@@ -1,0 +1,24 @@
+dotnet new console 
+
+// This creates a console application 
+// did not specify where to place the files
+------------------------------------------
+
+// Generate and place in a particular folder run the command below
+
+dotnet new console -o ConsoleProgram
+----------------------------------------
+// running a dotnet project
+
+ // NOTE: Before running these commands, switch to the directory with the project -- 
+ cd ConsoleProgram
+ 
+dotnet run // [1]
+
+dotnet watch run // [2]
+
+------------------------
+
+
+
+
